@@ -7,3 +7,6 @@ https://data.giss.nasa.gov/gistemp/
 running the code should display the year and the difference from the mean temperature from that year on the **console of the browser**.
 
 The HTML and the JS are included in a single index.html file
+
+
+Continuation to this can be found here : https://github.com/charliebaer/API101-graphing-with-Chart.js
